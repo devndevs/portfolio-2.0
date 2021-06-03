@@ -1,0 +1,18 @@
+- name: Apartment App
+  url: https://github.com/DevenPerkins/apartment-app-DevenPerkins
+  description: Mock apartment application for listing apartments and storing the ones that you're interested in
+  status: in progress
+  tags:
+    - React in Rails
+    - Devise Authentication
+  icon: github
+
+- name: Portfolio 2.0
+  url: https://github.com/DevenPerkins/portfolio-2.0
+  description: The site that you're viewing right now! This is a React app built with Gatsby
+  status: live
+  tags:
+    - React
+    - Gatsby
+  icon: github
+  image: 

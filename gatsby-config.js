@@ -1,6 +1,18 @@
 module.exports = {
   siteMetadata: {
-    title: "portfolio-2.0",
+    description: "Portfolio page of Deven Perkins",
+    locale: "en",
+    title: "Deven Perkins   ||   Portfolio",
+    formspreeEndpoint: "https://formspree.io/f/xoqydrak",
   },
-  plugins: [],
-};
+  plugins: [
+    {
+      resolve: "@wkocjan/gatsby-theme-intro",
+      options: {
+        basePath: "/",
+        contentPath: "content/",
+        theme: "dark-blue",
+      },
+    },
+  ],
+}
