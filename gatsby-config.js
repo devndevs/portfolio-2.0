@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    description: "Portfolio page of Deven Perkins",
+    description: "Deven Perkins is a San Diego(remote) based Full-Stack Web Developer",
     locale: "en",
     title: "Deven Perkins   ||   Portfolio",
     formspreeEndpoint: "https://formspree.io/f/xoqydrak",
@@ -12,7 +12,6 @@ module.exports = {
         basePath: "/",
         contentPath: "content/",
         theme: "dark-blue",
-        icon: `src/images/final.jpg`
       },
     },
   ],
