@@ -12,6 +12,7 @@ module.exports = {
         basePath: "/",
         contentPath: "content/",
         theme: "dark-blue",
+        icon: `src/images/final.jpg`
       },
     },
   ],
