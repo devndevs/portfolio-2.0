@@ -1,3 +1,6 @@
 node_modules/
 .cache/
+/server.csr
+/server.key
+/server.pass.key
 public
