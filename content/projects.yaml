@@ -1,3 +1,13 @@
+- name: CodeSpells Nexus
+  url: http://nexus.codespells.org/
+  description: The Nexus is an educational experience that provides users with endless interaction possibilities through the scope of learning how to code.
+  status: live
+  tags:
+    - React
+    - Express
+    - Docker
+  image: images/Public_Spells_screenshot.jpg
+
 - name: Apartment App
   url: https://github.com/DevenPerkins/apartment-app-DevenPerkins
   description: Mock apartment application for listing apartments and storing the ones that you're interested in
@@ -5,7 +15,7 @@
   tags:
     - React in Rails
     - Devise Authentication
-  icon: github
+  image: images/apt_app_home.jpg
 
 - name: Portfolio 2.0
   url: https://github.com/DevenPerkins/portfolio-2.0
@@ -15,4 +25,4 @@
     - React
     - Gatsby
   icon: github
-  image: 
+  image: images/Profile_Screenshot.jpg
