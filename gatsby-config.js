@@ -11,6 +11,7 @@ module.exports = {
       options: {
         basePath: "/",
         contentPath: "content/",
+        showThemeLogo: false,
         theme: "dark-blue",
       },
     },

@@ -6,6 +6,7 @@
     - React
     - Express
     - Docker
+  icon: website
   image: images/Public_Spells_screenshot.jpg
 
 - name: Apartment App
@@ -15,6 +16,7 @@
   tags:
     - React in Rails
     - Devise Authentication
+  icon: github
   image: images/apt_app_home.jpg
 
 - name: Portfolio 2.0
