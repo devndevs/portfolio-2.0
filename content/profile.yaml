@@ -16,9 +16,9 @@
     - HTML / CSS
     - Ruby on Rails
   tools:
-    - React
-    - RESTful APIs
-    - Automated Tests
+    - VS Code
+    - GitHub
+    - Jira
   budget:
     currency: $
     min: 5
