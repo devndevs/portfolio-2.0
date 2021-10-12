@@ -18,7 +18,7 @@
   tools:
     - React
     - RESTful APIs
-    - Automated Testing
+    - Automated Tests
   budget:
     currency: $
     min: 5
