@@ -18,7 +18,7 @@
   tools:
     - React
     - RESTful APIs
-    - Test Driven Development
+    - Automated Testing
   budget:
     currency: $
     min: 5
