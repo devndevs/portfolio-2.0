@@ -1,6 +1,11 @@
 - company: Drata
+  position: Associate Software Engineer
+  period: January 2022 - Present
+  url: https://drata.com/
+
+- company: Drata
   position: Associate QA Engineer
-  period: July 2021 - present
+  period: July 2021 - December 2021
   url: https://drata.com/
 
 - company: ThoughtSTEM
@@ -8,10 +13,6 @@
   period: May 2021 - July 2021
   url: https://codespells.org/
 
-- company: LEARN Academy
-  position: Full-Stack Web Developer
-  period: February 2021 - June 2021
-  url: https://www.learnacademy.org/
 
 - company: FortuneBuilders
   position: Multimedia Specialist / Content Management
