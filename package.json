@@ -18,6 +18,7 @@
     "@wkocjan/gatsby-theme-intro": "^2.0.1",
     "gatsby": "^3.6.1",
     "react": "^17.0.2",
-    "react-dom": "^17.0.2"
+    "react-dom": "^17.0.2",
+    "node": "^16.3.0"
   }
 }
