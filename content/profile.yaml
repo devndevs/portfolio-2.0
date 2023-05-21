@@ -21,6 +21,6 @@
     - Jira
   budget:
     currency: $
-    min: 5
-    max: 30
-    default: 10
+    min:
+    max:
+    default:
